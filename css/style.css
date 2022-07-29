@@ -1,0 +1,25 @@
+.span{
+    color: red;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.box-2{
+    width: 500px;
+    height: 250px;
+    background-color: green;
+    display: inline-block;
+}
+
+.box-3{
+    width: 200px;
+    height: 450px;
+    background-color: purple;
+    display: inline-block;
+    border-radius: 0px 50% 0 50px ;
+}
